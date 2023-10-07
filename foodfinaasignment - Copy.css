@@ -1,0 +1,252 @@
+#nav1{
+    background-image: url("./foodfinda-images/header_bgfoodfinda1.gif");
+    height: 22px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 12px;
+    padding-top: 10px;
+    border: 1px solid;
+    border-top: none;
+    position: sticky;
+    top: 0%;
+    width: 100%;
+    
+}
+nav sapn{
+   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+   
+}
+nav img{
+    margin-left: 1100px;
+}
+#div1{
+    margin:0%;
+    margin-left: 200px;
+    /* border: 2px solid red; */
+    width: 600px;
+    position: sticky;
+    top: 0%;
+    width: 100%;
+    /* border-bottom: 1px solid; */
+
+}
+#div2{
+    border: 2px solid;
+    background-image: url("./foodfinda-images/body-bg-foodfinda.jpg");
+     height: 3000px ;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    background-size: 100% 100%;
+    height: 4500px;
+    
+}
+ 
+#per{
+    background-color: #8eb50b;
+    height: 50px;
+    margin: 10px;
+}
+#div3{
+    /* border: 2px solid orange; */
+    width: 1000px;
+     margin-left: 150px;
+     position: absolute;
+     top: 1px; margin-top: 225px;
+     height: 50px; background-color: black;
+}
+#div4{
+    /* border: 2px solid pink; */
+    width: 600px;
+    height: 30px; margin: 1px;
+    margin-left: 90px;
+}
+#div5{
+    /* border: 2px solid orange; */
+    width: 100px; position: absolute;
+    top: 1px; margin-left: 650px;
+    margin-top: 10px; color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 19px;
+}
+#div6{
+    /* border: 2px solid orange; */
+    width: 100px; position: absolute;
+    top: 1px; margin-left: 800px;
+    margin-top: 10px; color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 19px;
+}
+#div7{
+    border: 2px solid orangered;
+    width: 1290px;
+    /* margin-top: 52px; */
+    margin-left: 10px;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    z-index: -100%;
+}
+#h11{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 430px;
+    margin-top: 120px;
+
+}
+ 
+#h12{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 490px;
+    
+}
+#btn1{
+    color: #8eb50b;
+    background-color: white;
+    width: 250px;
+    height: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    margin-left: 510px;
+    border-radius: 5px;
+}
+#course{
+    width: 100px;
+    margin-left: 250px;
+    height: 40px;
+    margin-top: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+#div8{
+    /* border: 2px solid orchid; */
+    height: 40px;
+    width: 600px;
+    margin-left: 400px;
+    position: absolute;
+    top: 1px;
+    margin-top: 550px;
+    background-color: white; color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   display: flex;
+   flex-wrap: wrap;
+
+}
+#hea1{
+    /* border: 2px solid; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#div9{
+    /* border: 2px solid; */
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#hea2{
+    /* border: 2px solid white; */
+    width: 500px; 
+    margin-left: 520px;
+}
+#div10{
+    /* border: 2px solid purple; */
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#div11{
+    /* border: 2px solid red; */
+   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+    position: absolute;
+    top: 1px;
+    margin-top: 900px;
+    height: 150px;
+    width: 1290px;
+}
+#div12{
+    /* border: 2px solid green; */
+    /* margin-right: 900px; */
+    width: 1290px;
+    height: 100px;
+}
+#diva1{
+    width: 1240px;
+    height: 300px;
+    /* background-color: pink; */
+    display: flex;
+    justify-content: space-between;
+
+}
+#divaa2{
+    /* border: 2px solid purple; */
+    width: 1240px;
+    height: 500px;
+    background-color: #8eb50b;
+}
+#divaa3{
+    /* border: 2px solid purple; */
+    width: 1240px;
+    height: 50px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+
+}
+#divaa4{
+    /* border: 2px solid pink; */
+    width: 1100px;
+    height: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+#divaa5{
+    /* border: 2px solid pink; */
+    width: 1100px;
+    height: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    position: absolute;
+    top: 1px;
+    margin-top: 1800px;
+}
+#divaa6{
+    border: 2px solid;
+    background-image: url("./foodfinda-images/body-bg-foodfinda.jpg");
+    width: 1000px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 150px;
+}
+#divaa7{
+    /* border:2px solid red; */
+    width: 1240px;
+    margin-top: 140px;
+    height: 200px; display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+#divaa8{
+    /* border: 2px solid red; */
+    width: 1290px;
+    height: 70px;
+    background-color: #8eb50b;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
